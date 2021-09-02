@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>Interactive demo - VCUBO</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="icon" href="https://vcubo.github.io/favicon.png">
+
+  
+  
+  <link rel="stylesheet" href="/css/style.min.a5c7dde20e4a18d1dc13e32c711772570a6dda9c7015a17061411e8c70ed1414.css">
+  
+
+  
+
+</head>
+
+<body class='page page-work-list'>
+  <div id="main-menu-mobile" class="main-menu-mobile">
+  <ul>
+    
+    
+    <li class="menu-item-demo active">
+      <a href="/demo/">
+        
+        <span>Demo</span>
+      </a>
+    </li>
+    
+    <li class="menu-item-our work">
+      <a href="/services/">
+        
+        <span>Our work</span>
+      </a>
+    </li>
+    
+    <li class="menu-item-about">
+      <a href="/about/">
+        
+        <span>About</span>
+      </a>
+    </li>
+    
+    <li class="menu-item-contact">
+      <a href="/contact/">
+        
+        <span>Contact</span>
+      </a>
+    </li>
+    
+  </ul>
+</div>
+  <div id="wrapper" class="wrapper">
+    <div class='header header-absolute'>
+  <div class="container">
+    <div class="logo">
+      <a href="https://vcubo.github.io/"><img alt="Figurit Homepage" src="https://vcubo.github.io/images/vcubo_beta.svg" /></a>
+    </div>
+    <div class="logo-mobile">
+      <a href="https://vcubo.github.io/"><img alt="Figurit Homepage" src="https://vcubo.github.io/images/vcubo_beta_md.svg" /></a>
+    </div>
+    <div id="main-menu" class="main-menu">
+  <ul>
+    
+    
+    <li class="menu-item-demo active">
+      <a href="/demo/">
+        
+        <span>Demo</span>
+      </a>
+    </li>
+    
+    <li class="menu-item-our work">
+      <a href="/services/">
+        
+        <span>Our work</span>
+      </a>
+    </li>
+    
+    <li class="menu-item-about">
+      <a href="/about/">
+        
+        <span>About</span>
+      </a>
+    </li>
+    
+    <li class="menu-item-contact">
+      <a href="/contact/">
+        
+        <span>Contact</span>
+      </a>
+    </li>
+    
+  </ul>
+</div>
+    <button id="toggle-main-menu-mobile" class="hamburger hamburger--slider" type="button">
+  <span class="hamburger-box">
+    <span class="hamburger-inner"></span>
+  </span>
+</button>
+  </div>
+</div>
+
+    
+
+<div id="hero" class="hero-image " style="background-image: url('/images/sphere3.gif')">
+  <div class="container ">
+    <div class="hero-text">
+      <span class="hero-section"></span>
+      <h1>Analytics demo</h1>
+      <p>Schedule uncertainty and risks&#39; impact decomposition</p>
+    </div>
+  </div>
+</div>
+
+
+
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+<div class="container pt-0 pt-md-">
+  <div class="row">
+    <div class="col-12">
+      <div class="page-intro">
+        <div class="container pb-5 pt-5 pb-md-5 pt-md-5">
+          <p>Risk events and uncertainty are the drivers of projects' schedules deviation with respect to the original plan.
+Based on historical data, we quantify how those factors affect projects performance.
+The figures below show the delays' distribution and its decomposition for a sample of anonymized projects.<br><br>
+<strong><a href="/contact">Contact us</a>
+</strong> to explore the fully interactive model (risks and variables filters, additional features and predictive statistics). We will process your projects' information and provide you with descriptive analytics at no charge.<br><br></p>
+
+
+<div id="/demo/total_h1.json" class="plotly" style="height:300px"></div>
+<script>
+Plotly.d3.json("/demo/total_h1.json", function(err, fig) {
+    Plotly.plot('\/demo\/total_h1.json', fig.data, fig.layout, {responsive: true});
+});
+</script>
+
+
+
+<div id="/demo/total_h2.json" class="plotly" style="height:300px"></div>
+<script>
+Plotly.d3.json("/demo/total_h2.json", function(err, fig) {
+    Plotly.plot('\/demo\/total_h2.json', fig.data, fig.layout, {responsive: true});
+});
+</script>
+
+
+
+<div id="/demo/total_b2.json" class="plotly" style="height:350px"></div>
+<script>
+Plotly.d3.json("/demo/total_b2.json", function(err, fig) {
+    Plotly.plot('\/demo\/total_b2.json', fig.data, fig.layout, {responsive: true});
+});
+</script>
+
+
+        </div>
+        <a class="button" href="/contact">Contact us to explore the interactive model</a>
+    </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="container pb-2 pt-2 pb-md-10 pt-md-10">
+
+</div>
+
+  </div>
+
+
+  <div class="sub-footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="sub-footer-inner">
+          <ul>
+            <li><strong>Phone: </strong>&#43;54 911 66580318</li>
+            <li><strong>Email: </strong><a href="mailto:facundo.bassi@vcubo.co">
+                facundo.bassi@vcubo.co</a></li>
+          </ul>
+          
+
+          <ul class="social">
+              
+                  <li><a href="https://github.com/vcubo" target="blank"><img width="20" height="20" src="/social/github.svg" title="Github" alt="Github" /></a></li>
+              
+                  <li><a href="https://twitter.com/_facubassi" target="blank"><img width="20" height="20" src="/social/twitter.svg" title="Twitter" alt="Twitter" /></a></li>
+              
+          </ul>
+          
+
+          <ul>
+
+            <li class="copyright">© 2021 VCUBO</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  
+
+  
+  
+
+  
+  <script type="text/javascript" src="/js/scripts.min.98ee06cc35517b5800b382aecb0fc59893e95b9c11dd21842d0d57e4f68043e3.js"></script>
+  
+
+  
+  
+  
+    
+  
+
+
+</body>
+</html>
