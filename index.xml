@@ -13,9 +13,9 @@
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
       <guid>https://vcubo.github.io/services/integration/</guid>
-      <description>At no charge, we process projects&#39; schedules, risk registers, and changelogs. After a standardization and anonymization process, we integrate the data into our database. A greater universe of projects contributes to understanding better the drivers of your project&amp;rsquo;s performance.
-Your projects&#39; data will remain anonymous and safe.
- First step: Wrangling projects&#39; data. All Companies has their toolsets, templates, and project controls procedures. We process the documents and files containing the information that our models need:</description>
+      <description>At no charge, we process projects&#39; schedules, risk registers, and changelogs. After a standardization and anonymization process, we integrate the data into our database. A greater universe of projects contributes to better understanding the drivers of your projects performance.
+The data of your company and your projects remains anonymous and safe.
+ First step: Wrangling projects&#39; data. All Companies have their toolsets, templates, and project controls procedures. We process the documents and files containing the information that our models need:</description>
     </item>
     
     <item>
@@ -25,7 +25,7 @@ Your projects&#39; data will remain anonymous and safe.
       
       <guid>https://vcubo.github.io/services/descriptive/</guid>
       <description>We provide standard high-level descriptive analytics at no charge. Customization and deep-dive options are available.
-   Projects&#39; delay distribution.     Distributions decomposition by uncertainty and risks&#39; impact .     High-level risks and variables&#39; historical influence in projects&#39; performance.     Descriptive analysis of risks and uncertainty at lower levels (custom).     Statistics and level of confidence (custom).     Distribution fits, correlations, and more (custom).</description>
+   Projects&#39; delay distribution.     Distributions decomposition by uncertainty and impact of risks.     High-level risks and historical influence of variables in projects performance.     Descriptive analysis of risks and uncertainty at lower levels (custom).     Statistics and level of confidence (custom).</description>
     </item>
     
     <item>
@@ -45,7 +45,7 @@ Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati d
       
       <guid>https://vcubo.github.io/services/predictive/</guid>
       <description>Custom predictive analytics for portfolios, projects and critical milestones. Take advantage of a rich and transversal database.
-   Adjusted level of confidence for distributions fits.     Completion probabilities, P50, P80.     Sensitivity analysis.     Deep-dive analysis for key drivers.     Influence of rare risk events.     </description>
+   Adjusted level of confidence for distribution fits.     Completion probabilities, P50, P80.     Sensitivity analysis.     Deep-dive analysis for key drivers.     Influence of rare risk events.     </description>
     </item>
     
     <item>
@@ -54,7 +54,7 @@ Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati d
       <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
       
       <guid>https://vcubo.github.io/services/prescriptive/</guid>
-      <description>To reduce bias in the decision-making process, we are developing vcubo.ai, an AI agent trained with the inputs and results of decisions made in past projects.
+      <description>To reduce bias in the decision-making process, we are developing vcubo.ai, an AI agent trained with the inputs and results of the decisions taken in past projects.
  </description>
     </item>
     
