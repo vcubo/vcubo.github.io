@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> <!-- Created with Vectornator for iOS (http://vectornator.io/) --><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg height="100%" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100%" xmlns:vectornator="http://vectornator.io" version="1.1" viewBox="0 0 1024 1024">
+<metadata>
+<vectornator:setting key="DimensionsVisible" value="1"/>
+<vectornator:setting key="PencilOnly" value="0"/>
+<vectornator:setting key="SnapToPoints" value="0"/>
+<vectornator:setting key="OutlineMode" value="0"/>
+<vectornator:setting key="CMYKEnabledKey" value="0"/>
+<vectornator:setting key="RulersVisible" value="1"/>
+<vectornator:setting key="SnapToEdges" value="0"/>
+<vectornator:setting key="GuidesVisible" value="1"/>
+<vectornator:setting key="DisplayWhiteBackground" value="0"/>
+<vectornator:setting key="doHistoryDisabled" value="0"/>
+<vectornator:setting key="SnapToGuides" value="1"/>
+<vectornator:setting key="TimeLapseWatermarkDisabled" value="0"/>
+<vectornator:setting key="Units" value="Pixels"/>
+<vectornator:setting key="DynamicGuides" value="0"/>
+<vectornator:setting key="IsolateActiveLayer" value="0"/>
+<vectornator:setting key="SnapToGrid" value="0"/>
+</metadata>
+<defs>
+<linearGradient y1="323.459" id="LinearGradient" x1="205.367" y2="323.459" x2="245.578" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -257.903 108.462)">
+<stop stop-color="#371adf" offset="1"/>
+<stop stop-color="#ffa1a7" offset="1"/>
+</linearGradient>
+<linearGradient y1="441.598" id="LinearGradient_2" x1="431.292" y2="441.598" x2="456.792" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 174.065 -73.5898)">
+<stop stop-color="#030012" offset="1"/>
+<stop stop-color="#000000" offset="1"/>
+</linearGradient>
+<linearGradient y1="493.36" id="LinearGradient_3" x1="1378.84" y2="493.36" x2="1408.31" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -1378.84 -487.575)">
+<stop stop-color="#000000" offset="1"/>
+<stop stop-color="#ffa1a7" offset="1"/>
+</linearGradient>
+<linearGradient y1="784.501" id="LinearGradient_4" x1="319.098" y2="842.686" x2="217.383" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -514.777 -715.336)">
+<stop stop-color="#000000" offset="1"/>
+<stop stop-color="#ffa1a7" offset="1"/>
+</linearGradient>
+</defs>
+<g id="Layer 1" vectornator:layerName="Layer 1">
+<text x="0" font-family="Comfortaa-Light" y="0" text-anchor="end" vectornator:text="c" fill="url(#LinearGradient)" font-size="900" vectornator:width="762.25" opacity="0.893897" transform="matrix(1 0 0 1 257.903 -108.462)"/>
+<text x="0" font-family="Comfortaa-Light" y="0" text-anchor="end" vectornator:text="v" fill="url(#LinearGradient_2)" font-size="900" vectornator:width="671.315" opacity="0.897773" transform="matrix(1 0 0 1 -174.065 73.5898)"/>
+<text x="0" font-family="Comfortaa-Light" y="0" text-anchor="end" vectornator:text="Text" fill="url(#LinearGradient_3)" font-size="55" vectornator:width="23.9711" opacity="0.556688" transform="matrix(1 0 0 1 1378.84 487.575)"/>
+<text x="0" font-family="CourierNewPSMT" y="0" text-anchor="end" vectornator:text="beta" fill="url(#LinearGradient_4)" font-size="180" vectornator:width="530" opacity="0.893897" transform="matrix(1 0 0 1 514.777 715.336)"/>
+</g>
+</svg>
