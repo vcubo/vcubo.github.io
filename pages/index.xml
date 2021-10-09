@@ -27,5 +27,14 @@ Contact us      </description>
       <description>About Heading  </description>
     </item>
     
+    <item>
+      <title>Interactive demo</title>
+      <link>https://vcubo.github.io/demo3/</link>
+      <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
+      
+      <guid>https://vcubo.github.io/demo3/</guid>
+      <description>About Heading  </description>
+    </item>
+    
   </channel>
 </rss>
